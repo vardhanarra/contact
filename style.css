@@ -1,0 +1,51 @@
+.container{
+
+    padding: 5px;
+    line-height: 1rem;
+}
+.ham{
+    border-radius: 25px;
+}
+.fas{
+    color: goldenrod;
+}
+
+.cha
+{
+position: absolute;
+left: 60%;
+top: 2.5%;
+}
+
+.var input{
+    width: 40%;
+    height: 45px;
+
+}
+.button{
+    border: solid 2px black;
+    width: 7% ;
+    height: 35px;
+    border-radius: 25px;
+}
+.cha h3{
+    font-size: 35px;
+    
+}
+.cha p{
+    font-size: 20px; 
+}
+.container h1{
+    text-decoration: 3.5px underline goldenrod;
+
+}
+body{
+  
+  background-image: url(https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80);
+  background-size:cover ;
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+      background-size: cover;
+    }
